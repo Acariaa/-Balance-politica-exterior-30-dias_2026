@@ -31,3 +31,4 @@ Limitaciones
 •	Algunos hallazgos, como la continuidad del canal propio se basan en observación puntual, no en conteo exhaustivo.
 •	El análisis se limita a fuentes públicas en español disponibles al momento de la recolección (7 de septiembre de 2026).
 
+Este proyecto usó asistencia de IA para la limpieza de datos y estructuración del análisis; la investigación, clasificación de fuentes y conclusiones son de la autora
